@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_biology"
+            android:icon="@drawable/biology"
+            android:title="生物" />
+        <item
+            android:id="@+id/nav_chemistry"
+            android:icon="@drawable/chemisty"
+            android:title="化学" />
+        <item
+            android:id="@+id/nav_chinese"
+            android:icon="@drawable/chinese"
+            android:title="语文" />
+        <item
+            android:id="@+id/nav_geography"
+            android:icon="@drawable/geography"
+            android:title="地理" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/history"
+            android:title="历史" />
+        <item
+            android:id="@+id/nav_maths"
+            android:icon="@drawable/maths"
+            android:title="数学" />
+        <item
+            android:id="@+id/nav_physics"
+            android:icon="@drawable/physics"
+            android:title="物理" />
+        <item
+            android:id="@+id/nav_politics"
+            android:icon="@drawable/politics"
+            android:title="政治" />
+        <item
+            android:id="@+id/nav_english"
+            android:icon="@drawable/english"
+            android:title="英语" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/music"
+            android:title="音乐" />
+
+    </group>
+</menu>
